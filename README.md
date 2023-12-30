@@ -1,6 +1,6 @@
 # "HTML for Beginners"
 
 
-### Author Links
+### Author 
 
 👋 Hello, I'm Sharath.
